@@ -4,13 +4,9 @@ cyan@github:~# `cat /AnalogCyan/AnalogCyan/README.md`
 
 🏳️‍🌈 Be gay, do crimes.
 
-<br>
-
 🛠️ Hardware technician by day
 
 🔮 Software witch by night
-
-<br>
 
 Feel free to connect with me and explore my projects here on GitHub! When I'm not making code sparkle :3, I might be purposefully breaking things >:3. But all in good fun! 🌟
 
