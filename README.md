@@ -1,4 +1,4 @@
-cyan@github:~# `cat /AnalogCyan/AnalogCyan/README.md`
+cyan@github:~# `cat ~/README.md`
 
 ### 👋 Greetings, GitHub!
 
