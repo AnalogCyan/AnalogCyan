@@ -2,7 +2,7 @@ cyan@github:~# `cat ~/README.md`
 
 ### 👋 Greetings, GitHub!
 
-🏳️‍🌈 Be gay, do crimes.
+🏳️‍🌈 Be gay, do crime.
 
 🛠️ Hardware technician by day
 
